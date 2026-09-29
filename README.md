@@ -23,8 +23,5 @@ A console-based Java application that helps students and teachers to manage and 
 2. Compile: `javac StudentGradeCalculator.java`
 3. Run: `java StudentGradeCalculator`
 
-### 📸 Output
-(Add your terminal screenshot here)
-
 ### 🔗 Connect
 #Java #DSA #DecodeLabs #Internship #JavaDeveloper
